@@ -1,0 +1,25 @@
+{
+  "name": "carreras",
+  "version": "1.0.0",
+  "description": "Un modulo para gestionar puntos de control",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "carreras",
+    "punto",
+    "control"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "mongodb": "^4.10.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
